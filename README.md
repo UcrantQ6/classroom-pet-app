@@ -10,7 +10,7 @@ A fun virtual pet system for teachers to motivate good student behavior!
 - Local data storage
 
 ## How to Use
-Visit: [https://yourusername.github.io/classroom-pet-app](https://yourusername.github.io/classroom-pet-app)
+Visit: [https://ucrantq6.github.io/classroom-pet-app](https://ucrantq6.github.io/classroom-pet-app)
 
 ## For Teachers
 1. Add your students
@@ -22,4 +22,5 @@ Visit: [https://yourusername.github.io/classroom-pet-app](https://yourusername.g
 - HTML5
 - CSS3
 - Vanilla JavaScript
+
 - Local Storage for data persistence
